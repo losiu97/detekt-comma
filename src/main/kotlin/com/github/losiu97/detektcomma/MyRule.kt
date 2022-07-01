@@ -1,4 +1,4 @@
-package org.example.detekt
+package com.github.losiu97.detektcomma
 
 import io.gitlab.arturbosch.detekt.api.CodeSmell
 import io.gitlab.arturbosch.detekt.api.Config
